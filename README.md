@@ -13,15 +13,14 @@ This Power BI project provides insights into the financial and demographic chara
   * Renters Balance: $105.12M
 * Visualization Features:
   * Easy comparison of balances by gender and ownership status.
-<br>
 2. Customer Analysis
-Purpose: Explores customer demographics and their impact on account balances.
-Data Insights:
-Segmentation by Age, Education, Gender, Job Classification, Marital Status, and State.
-Customer count distribution by age group:
-Peak at 797 customers aged 30-40.
-State-wise balance comparison with highlights:
-California: Total Balance of $12.61M.
+* Purpose: Explores customer demographics and their impact on account balances.
+* Data Insights:
+  * Segmentation by Age, Education, Gender, Job Classification, Marital Status, and State.
+  * Customer count distribution by age group:
+    * Peak at 797 customers aged 30-40.
+  * State-wise balance comparison with highlights:
+    * California: Total Balance of $12.61M.
 Nevada: $6.86M.
 Demographic Highlights:
 Divorced customers have a total balance of $2.73M.
