@@ -7,12 +7,13 @@ This Power BI project provides insights into the financial and demographic chara
 * Purpose: Displays key metrics about the bank's financials and customer balances.
 * Metrics Highlighted:
   * Total Balance: $236.93M
-Male Balance: $128.59M
-Female Balance: $108.34M
-House Owners Balance: $131.81M
-Renters Balance: $105.12M
-Visualization Features:
-Easy comparison of balances by gender and ownership status.
+  * Male Balance: $128.59M
+  * Female Balance: $108.34M
+  * House Owners Balance: $131.81M
+  * Renters Balance: $105.12M
+* Visualization Features:
+  * Easy comparison of balances by gender and ownership status.
+<br>
 2. Customer Analysis
 Purpose: Explores customer demographics and their impact on account balances.
 Data Insights:
