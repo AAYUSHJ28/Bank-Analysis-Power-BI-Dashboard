@@ -6,7 +6,7 @@ This Power BI project provides insights into the financial and demographic chara
 1. KPI Analysis
 * Purpose: Displays key metrics about the bank's financials and customer balances.
 * Metrics Highlighted:
-  - Total Balance: $236.93M
+  * Total Balance: $236.93M
 Male Balance: $128.59M
 Female Balance: $108.34M
 House Owners Balance: $131.81M
