@@ -89,6 +89,5 @@ The project uses synthetic or anonymized customer and financial data, structured
 
 ## Tools and Technologies
 - **Power BI Desktop:** For creating and publishing dashboards.
-- **SQL Server:** (If applicable) Data source for analysis.
 - **Excel Workbook:** Supplementary data management.
 
